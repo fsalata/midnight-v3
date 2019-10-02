@@ -6,3 +6,7 @@ Slightly modified Midnight Theme with Fira Code font
 - Apply the theme on Xcode Prefences -> Fonts & Colors -> select Midnight Theme.
 
 \* Midnight-v3-FC theme uses [Fira Code](https://github.com/tonsky/FiraCode).
+
+# Example
+
+![example-1](https://github.com/fsalata/midnight-v3/blob/master/example/1.png?raw=true)
