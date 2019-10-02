@@ -2,7 +2,7 @@
 Slightly modified Midnight Theme
 
 # Installation
-- Move `Midnight-v3.xccolortheme` and `Midnight-v3-FC.xccolortheme`* to `~/Library/Developer/Xcode/UserData/FontAndColorThemes` or execute `install.sh` script.
+- Move `Midnight-v3.xccolortheme` and/or `Midnight-v3-FC.xccolortheme`* to `~/Library/Developer/Xcode/UserData/FontAndColorThemes` or execute `install.sh` script.
 - Apply the theme on Xcode Prefences -> Fonts & Colors -> select Midnight-v3 or Midnight-v3-FC* Theme.
 
 \* Midnight-v3-FC theme uses [Fira Code](https://github.com/tonsky/FiraCode).
